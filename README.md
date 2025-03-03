@@ -5,7 +5,7 @@
 🌍 **Exploring AI, Machine Learning, and Software Quality Assurance**  
 🚀 **Aspiring Full Stack Developer & Researcher in Cybersecurity & Deepfake Detection**  
 📌 **Currently Learning:** Machine Learning, Python, Advanced Java  
-🌏 **Looking to Relocate via Skilled Migration Visa**  
+🌏 **Looking to Masters in Artificial Intelligence**  
 
 ---
 
@@ -39,7 +39,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/raihan-khan-cs/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/Raihan-Khan-CS)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://raihankhan.info)  
 
 ---
 
